@@ -11,13 +11,9 @@ painted lines, and the camera's position is recovered from the court.
 
 ## Demo
 
-<video src="demo/annotated_clip_5s.mp4" controls muted width="100%"></video>
+![Annotated clip: court lines, player boxes, ball trail and minimap](demo/annotated_clip.png)
 
-[Annotated clip, first 5 seconds (mp4)](demo/annotated_clip_5s.mp4) — court lines, yellow bounce flashes, player boxes and the minimap.
-
-<video src="rec.mov" controls muted width="100%"></video>
-
-[Screen recording (rec.mov)](rec.mov)
+![Interactive 3D viewer of the rally](demo/rec.png)
 
 ## Results on the sample clip
 
