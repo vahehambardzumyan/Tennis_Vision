@@ -9,6 +9,16 @@ Everything is in one notebook: [`notebooks/tennis_detection.ipynb`](notebooks/te
 There is no court-keypoint model and no calibration file. The court is found from its own
 painted lines, and the camera's position is recovered from the court.
 
+## Demo
+
+<video src="demo/annotated_clip_5s.mp4" controls muted width="100%"></video>
+
+[Annotated clip, first 5 seconds (mp4)](demo/annotated_clip_5s.mp4) — court lines, yellow bounce flashes, player boxes and the minimap.
+
+<video src="rec.mov" controls muted width="100%"></video>
+
+[Screen recording (rec.mov)](rec.mov)
+
 ## Results on the sample clip
 
 22 seconds of ATP hard-court singles, 1920×1080 at 60fps.

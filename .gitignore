@@ -8,6 +8,7 @@ __pycache__/
 data/
 models/*.pt
 *.mp4
+!demo/*.mp4
 
 # local tooling / editor
 .claude/
